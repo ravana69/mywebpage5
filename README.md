@@ -5,5 +5,5 @@
 * [Hindi FM](https://ravana69.github.io/hindi)
 * [English FM](https://ravana69.github.io/english)
 
-![image](https://user-images.githubusercontent.com/47528708/153402584-ee9bc89d-4d0f-4bb3-84ef-bbabdcd08d8a.png)
+![image](https://user-images.githubusercontent.com/47528708/153848906-1dc4004d-1118-4c99-ba7c-530d1474d0df.png)
 ====================================
